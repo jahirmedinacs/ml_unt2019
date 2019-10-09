@@ -1,0 +1,21 @@
+"S1",“Suit of card #1”,"Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}"
+
+"C1",“Rank of card #1”,"Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)"
+
+"S2",“Suit of card #2”,"Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}"
+
+"C2",“Rank of card #2”,"Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)"
+
+"S3",“Suit of card #3”,"Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}"
+
+"C3",“Rank of card #3”,"Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)"
+
+"S4",“Suit of card #4”,"Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}"
+
+"C4",“Rank of card #4”,"Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)"
+
+"S5",“Suit of card #5”,"Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}"
+
+"C5",“Rank of card 5”,"Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)"
+
+"CLASS",“Poker Hand”,"Ordinal (0-9)"
